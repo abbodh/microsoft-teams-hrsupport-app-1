@@ -42,7 +42,7 @@
     "appDisplayName": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "Ask HR",
+      "defaultValue": "HR Support",
       "metadata": {
         "description": "The app (and bot) display name."
       }
@@ -132,7 +132,7 @@
       "metadata": {
         "description": "The URL to the GitHub repository to deploy."
       },
-      "defaultValue": "https://github.com/OfficeDev/microsoft-teams-hrsupport-app.git"
+      "defaultValue": "https://github.com/abbodh/microsoft-teams-hrsupport-app-1.git"
     },
     "gitBranch": {
       "type": "string",
